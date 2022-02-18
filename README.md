@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # ShreyasB02
-Myself
+
 [![ShreyasB02' GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasb02&theme=chartreuse-dark&show_icons=1&count_private=true)](https://github.com/shreyasb02/github-readme-stats)
 
