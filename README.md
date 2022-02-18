@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ShreyasB02/ShreyasB02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# ShreyasB02
+Myself
+[![ShreyasB02' GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasb02&theme=chartreuse-dark&show_icons=1&count_private=true)](https://github.com/shreyasb02/github-readme-stats)
+
