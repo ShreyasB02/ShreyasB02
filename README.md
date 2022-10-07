@@ -47,12 +47,12 @@
 
 ## 🏆 GitHub Stats
 
-<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyasBattula&theme=github_dark" />
+<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyasB01&theme=github_dark" />
 
-<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShreyasBattula&theme=github_dark" />
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShreyasB02&theme=github_dark" />
 
-<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyasBattula&theme=github_dark" />
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShreyasB02&theme=github_dark" />
 
-<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyasBattula&theme=github_dark" />
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyasB02&theme=github_dark" />
 
-<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyasBattula&theme=github_dark&utcOffset=8" />
+<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShreyasB02&theme=github_dark&utcOffset=8" />
